@@ -1,0 +1,13 @@
+{
+  "name": "class-sanitizer-reloaded",
+  "version": "0.1.0",
+  "description": "A class-sanitizer equivalent",
+  "main": "./dist/index.js",
+  "author": "Christos Panagiotakopoulos <chrispanag@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/validator": "^12.0.1",
+    "validator": "^12.2.0"
+  }
+}
