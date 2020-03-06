@@ -1,2 +1,2 @@
-export { NormalizeEmail, SanitizeNested } from './sanitize';
+export * from './sanitize';
 export { sanitize } from './core';
