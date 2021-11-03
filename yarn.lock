@@ -7,7 +7,7 @@
   resolved "https://registry.yarnpkg.com/@types/validator/-/validator-12.0.1.tgz#73dbc7f5f730ff7131754bca682824eb3c260b79"
   integrity sha512-l57fIANZLMe8DArz+SDb+7ATXnDm15P7u2wHBw5mb0aSMd+UuvmvhouBF2hdLgQPDMJ39sh9g2MJO4GkZ0VAdQ==
 
-validator@^12.2.0:
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-12.2.0.tgz#660d47e96267033fd070096c3b1a6f2db4380a0a"
-  integrity sha512-jJfE/DW6tIK1Ek8nCfNFqt8Wb3nzMoAbocBF6/Icgg1ZFSBpObdnwVY2jQj6qUqzhx5jc71fpvBWyLGO7Xl+nQ==
+validator@^13.7.0:
+  version "13.7.0"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-13.7.0.tgz#4f9658ba13ba8f3d82ee881d3516489ea85c0857"
+  integrity sha512-nYXQLCBkpJ8X6ltALua9dRrZDHVYxjJ1wgskNt1lH9fzGjs3tgojGSCBjmEPwkWS1y29+DrizMTW19Pr9uB2nw==

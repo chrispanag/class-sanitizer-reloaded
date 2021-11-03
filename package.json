@@ -8,6 +8,6 @@
   "private": false,
   "dependencies": {
     "@types/validator": "^12.0.1",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
